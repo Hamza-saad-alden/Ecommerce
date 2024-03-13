@@ -1,0 +1,43 @@
+.first .content {
+  background-image: url("../../../../assets/imgs/banner/b17.jpg");
+}
+
+.first .content,
+.second .content {
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 117px 0px 117px 30px;
+}
+.second .content {
+  background-image: url("../../../../assets/imgs/banner/b10.jpg");
+}
+
+.first .content button,
+.second .content button {
+  outline: 1px solid white;
+}
+.first .content button:hover,
+.second .content button:hover {
+  background-color: #088178 !important;
+  outline: none;
+  /* border: none !important; */
+}
+
+.second .first {
+  background-image: url("../../../../assets/imgs/banner/b7.jpg");
+}
+.second .second {
+  background-image: url("../../../../assets/imgs/banner/b4.jpg");
+}
+.second .third {
+  background-image: url("../../../../assets/imgs/banner/b18.jpg");
+}
+.second .first,
+.second .second,
+.second .third {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 95px 0px 95px 30px;
+  height: 30vh;
+}

@@ -1,0 +1,14 @@
+.banner {
+  background-image: url('../../../../assets/imgs/banner/b2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right 10%;
+  padding-top: 100px;
+  padding-bottom: 110px;
+}
+
+.banner button:hover {
+  color: white !important;
+  background-color: #088178 !important;
+  transition: .3s;
+}

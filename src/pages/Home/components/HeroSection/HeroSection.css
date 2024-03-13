@@ -1,0 +1,25 @@
+.hero {
+  background-image: url("../../../../assets/imgs/hero4.png");
+  background-position: top 25% right 0;
+  background-size: cover;
+  height: calc(100vh - 80px);
+  padding: 0 80px;
+}
+.hero h1 {
+  color: #088178;
+}
+.hero button {
+  outline: 0;
+}
+.hero button:focus {
+  outline: 0;
+  border: 0;
+}
+.hero button a{
+  background-image: url(../../../../assets/imgs/button.png);
+  padding: 11px 60px;
+  /* background-size: cover; */
+}
+.hero button:hover {
+  color: #088178;
+}

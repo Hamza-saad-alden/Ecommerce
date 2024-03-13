@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "brand": "adidas",
+    "description": "T-Shirts",
+    "details": "The Gildan Ultra Cotton T-shirts made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton , this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder. and a seamless double-needle callar. and available in a range of colors, it offers it all in the ultimate head-turning package.",
+    "rate": 0,
+    "price": "78",
+    "img": "/imgs/products/f1.jpg"
+  },
+  {
+    "id": 1,
+    "brand": "adidas",
+    "description": "flowered T-Shirts",
+    "details": "The Gildan Ultra Cotton T-shirts made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton , this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder. and a seamless double-needle callar. and available in a range of colors, it offers it all in the ultimate head-turning package.",
+    "rate": 0,
+    "price": "100",
+    "img": "/imgs/products/f2.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "adidas",
+    "description": "beach T-Shirts",
+    "details": "The Gildan Ultra Cotton T-shirts made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton , this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder. and a seamless double-needle callar. and available in a range of colors, it offers it all in the ultimate head-turning package.",
+    "rate": 0,
+    "price": "90",
+    "img": "/imgs/products/f3.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "adidas",
+    "description": "Cotton T-Shirts",
+    "details": "The Gildan Ultra Cotton T-shirts made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton , this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder. and a seamless double-needle callar. and available in a range of colors, it offers it all in the ultimate head-turning package.",
+    "rate": 0,
+    "price": "110",
+    "img": "/imgs/products/f4.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Gucci",
+    "description": "Navy Blue T-Shirt",
+    "details": "The Gildan Ultra Cotton T-shirts made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton , this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder. and a seamless double-needle callar. and available in a range of colors, it offers it all in the ultimate head-turning package.",
+    "rate": 0,
+    "price": "88",
+    "img": "/imgs/products/f5.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Gucci",
+    "description": "T-Shirt White Sweater",
+    "details": "The Gildan Ultra Cotton T-shirts made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton , this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder. and a seamless double-needle callar. and available in a range of colors, it offers it all in the ultimate head-turning package.",
+    "rate": 0,
+    "price": "130",
+    "img": "/imgs/products/f6.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "Gucci",
+    "description": "Beige Pants",
+    "details": "The Gildan Ultra Cotton T-shirts made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton , this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder. and a seamless double-needle callar. and available in a range of colors, it offers it all in the ultimate head-turning package.",
+    "rate": 0,
+    "price": "115",
+    "img": "/imgs/products/f7.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Gucci",
+    "description": "Sweater",
+    "details": "The Gildan Ultra Cotton T-shirts made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton , this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder. and a seamless double-needle callar. and available in a range of colors, it offers it all in the ultimate head-turning package.",
+    "rate": 0,
+    "price": "98",
+    "img": "/imgs/products/f8.jpg"
+  }
+]

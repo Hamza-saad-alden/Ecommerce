@@ -1,0 +1,9 @@
+.header {
+  background: url('../../../../assets/imgs/banner/b1.jpg');
+  height: 40vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

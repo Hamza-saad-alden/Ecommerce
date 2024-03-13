@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "brand": "adidas",
+    "description": "Cartoon Astrounant T-Shirts",
+    "rate": 0,
+    "price": 78,
+    "img": "imgs/f1.jpg"
+  },
+  {
+    "id": 1,
+    "brand": "adidas",
+    "description": "Cartoon Astrounant T-Shirts",
+    "rate": 0,
+    "price": 78,
+    "img": "imgs/f2.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "adidas",
+    "description": "Cartoon Astrounant T-Shirts",
+    "rate": 0,
+    "price": 78,
+    "img": "imgs/f3.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "adidas",
+    "description": "Cartoon Astrounant T-Shirts",
+    "rate": 0,
+    "price": 78,
+    "img": "imgs/f4.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "adidas",
+    "description": "Cartoon Astrounant T-Shirts",
+    "rate": 0,
+    "price": 78,
+    "img": "imgs/f5.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "adidas",
+    "description": "Cartoon Astrounant T-Shirts",
+    "rate": 0,
+    "price": 78,
+    "img": "imgs/f6.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "adidas",
+    "description": "Cartoon Astrounant T-Shirts",
+    "rate": 0,
+    "price": 78,
+    "img": "imgs/f7.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "adidas",
+    "description": "Cartoon Astrounant T-Shirts",
+    "rate": 0,
+    "price": 78,
+    "img": "imgs/f8.jpg"
+  }
+]

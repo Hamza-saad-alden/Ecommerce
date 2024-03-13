@@ -1,0 +1,19 @@
+.news-letters {
+  background-image: url("../../../../assets/imgs/banner/b14.png");
+  background-position: 30% 20%;
+  background-color: #041e42;
+}
+.news-letters input[type="text"] {
+  outline: none;
+  width: 250px;
+  color: #041e42;
+  margin-right: -3px;
+  border: none;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+.news-letters input[type="submit"] {
+  background-color: #088178;
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}

@@ -1,0 +1,60 @@
+.container {
+  padding: 0 !important;
+}
+.navbar {
+  background-color: #e3e6f3 !important;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06) !important;
+  padding: 15px 100px !important;
+}
+.navbar li a {
+  position: relative;
+  transition: 0.3s color;
+}
+.navbar li:not(:last-child) a.active::before {
+  content: "";
+  position: absolute;
+  width: 70%;
+  height: 4px;
+  background: #088178;
+  transition: width 0.3s;
+  left: 9px;
+  top: 35px;
+}
+.navbar li a.active {
+  color: #088178 !important;
+}
+.navbar li a:hover {
+  color: #088178 !important;
+}
+.navbar li:not(:last-child) a::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 4px;
+  background: #088178;
+  transition: width 0.3s;
+  left: 9px;
+  top: 35px;
+}
+.navbar li a:hover::before {
+  width: 70%;
+}
+.cart {
+  position: relative;
+}
+.quantity {
+  position: absolute;
+  background-color: red;
+  color: white;
+  padding: 5px;
+  border-radius: 50%;
+  bottom: 0;
+  right: 0;
+  transform: translate(3px,8px);
+  width: 1.3rem;
+  height: 1.3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}

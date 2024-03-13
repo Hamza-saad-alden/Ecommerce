@@ -1,0 +1,10 @@
+.facebook {
+  background-color: #1877f2;
+  cursor: pointer;
+}
+.instagram {
+  background-color: purple;
+}
+.image >img {
+  border: 1px solid green;
+}
